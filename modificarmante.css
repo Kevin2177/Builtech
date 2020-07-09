@@ -1,0 +1,73 @@
+body{
+	background: #00F260;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to bottom, #0575E6, #00F260);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to bottom, #0575E6, #00F260); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+	}
+
+.btn{
+	text-decoration: none;
+	padding: 10px;
+	font-weight: 600;
+	font-size: 20px;
+	color: #FFF;
+	background-color: #1A7EEE;
+	border: #1A7EEE 5px solid;
+  	border-top-left-radius: 20px;
+  	border-bottom-right-radius: 20px;
+  	/*position: relative;
+  	bottom: 100px;
+  	left: 1700px;*/
+}
+
+h1{
+   text-align:;
+   position: relative;
+   font-family: 'Playfair Display', serif;
+   font-size: 60px;
+}
+
+img.logo{
+	display: inline;
+	vertical-align: middle;
+	padding-right: 20%; 
+}
+
+header {
+	background-image: url(fondomante.jpg);
+	position: relative;
+	height: 27vh;
+	width: auto;
+	bottom: 25px;
+	background-position: center;
+	background-attachment: fixed;
+	background-size: cover;
+	background-image: : linear-gradient(to right, #FFFDE4, #005AA7), url(fondomante.jpg); 
+
+}
+
+.waves{
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	height: 100px;
+}
+
+.modi{
+	text-align: center;
+}
+
+h2{
+	font-family: 'Coda Caption', sans-serif;
+}
+
+h3{
+	font-family: 'Fondamento', cursive;
+	font-size: 25px;
+}
+
+p{
+	font-family: 'Playball', cursive;
+	font-size: 20px;
+}
